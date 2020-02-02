@@ -6,3 +6,10 @@ Now, there are few questions and actions left:
 
 Tutorials:
 https://www.bilibili.com/video/av38379328?p=20
+
+Status:
+Requirement: for wuhan2020 project
+Solution: be familiar with typescript
+Study: basic grammer
+Application: (not yet)
+Optimization: (not yet)
